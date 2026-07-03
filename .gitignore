@@ -1,0 +1,29 @@
+# Test files
+*.bin
+*.log
+
+# Runtime data
+data/watched/*
+data/organized/*
+logs/*
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Data/output
+data/organized/
+logs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
