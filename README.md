@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📦 AI File Organizer + Monitoring Dashboard
 
 A Dockerized, event-driven file management system that automatically organizes files, processes them asynchronously using workers, and provides real-time monitoring via Prometheus and Grafana.
@@ -237,6 +236,4 @@ Database logging (PostgreSQL)
 Search functionality
 CI/CD pipeline
 
-=======
 
->>>>>>> c8323ebaa2376ac11165542805e1ab57063dbbae
